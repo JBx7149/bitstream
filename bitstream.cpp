@@ -1,8 +1,5 @@
 #include <stdlib.h>
 
-/*
-Made by Fran 1024, 2019
-*/
 
 class bitStream {
 private:
